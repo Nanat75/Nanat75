@@ -29,40 +29,27 @@ Most of my projects are inspired by games and narrative-driven design.
 ## 🧠 Tech & Tools
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- JavaScript
-- Phaser JS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=phaser" height="48"/>
+</p>
 
 ### ⚙️ Backend / Environment
-- Laravel
-- MySQL
-- XAMPP
-- Formspree
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,mysql" />
+</p>
+
+<p>
+  🧪 XAMPP &nbsp;•&nbsp; 📮 Formspree
+</p>
 
 ### 🎨 Design
-- Figma
-- Canva
-- Pixel-art UI design
+<p>
+  🎨 Figma &nbsp;•&nbsp; Canva &nbsp;•&nbsp; Pixilart
+</p>
 
 ### 🧰 Tools
-- Git & GitHub
-- VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
----
-<!--
-**Nanat75/Nanat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
