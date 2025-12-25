@@ -1,12 +1,11 @@
 <div align="center">
 
-![pixel banner](https://your-banner-link.png)
-
-🎮🌷  
 # Hi, I'm Nathasya (Nana)
-### Student Developer • Interactive Web • Pixel UI
+### Student Developer • Interactive Web • Pixel art
 
-![pixel room gif](https://your-gif-link.gif)
+---
+
+![pixel banner](https://cdn.pfps.gg/banners/3045-pastel-aesthetic.png)
 
 </div>
 
@@ -22,34 +21,53 @@ I enjoy creating:
 - 🎨 Pixel-art inspired UI  
 - 🌱 Calm, cozy, and emotional interactions  
 
-Most of my projects are inspired by games and narrative-driven design.
+Currently exploring **web development** through personal projects and creative portfolios. Most of my projects are inspired by games and narrative-driven design!
 
 ---
 
 ## 🧠 Tech & Tools
 
-### 🌐 Frontend
+### 1. Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   <img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" height="48"/>
 </p>
 
-### ⚙️ Backend / Environment
+### 2. Backend / Environment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,mysql" />
+  <img src="https://cdn.simpleicons.org/formspree/ea4aa" height="45"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fknKKe9B8oE5WnbznLV9iM-cnr7DtQLpbg&s" height="45"/>
 </p>
 
+### 3. Design
 <p>
-  🧪 XAMPP &nbsp;•&nbsp; 📮 Formspree
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://1000logos.net/wp-content/uploads/2023/02/Canva-logo.png" height="48"/>
+  <img src="https://cdn.pixilart.com/admin/files/953a65916ff3b11.png" height="48"/>
+</p>
 </p>
 
-### 🎨 Design
-<p>
-  🎨 Figma &nbsp;•&nbsp; Canva &nbsp;•&nbsp; Pixilart
-</p>
 
-### 🧰 Tools
+### 4. Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+---
+
+## 🌱 Currently Learning
+- Improving JavaScript game logic using Phaser.js and Vanilla JavaScript
+
+- Designing UI/UX for interactive websites
+
+- Strengthening backend development skills and using backend technologies more frequently
+  
+---
+
+<div align="center">
+  
+✨ Thanks for stopping by ✨  
+*Feel free to explore my projects!*
+
+</div>
