@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Nathasya (Nana)
+#  Nathasya Aulia Putri 
 ### Student Developer • Interactive Web • Pixel art
 
 ---
 
-![pixel banner](https://cdn.pfps.gg/banners/3045-pastel-aesthetic.png)
+![pixel banner](https://i.pinimg.com/736x/9c/74/89/9c748904700dfc8ec8098ab1c0895662.jpg)
 
 </div>
 
