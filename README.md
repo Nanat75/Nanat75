@@ -31,7 +31,7 @@ Most of my projects are inspired by games and narrative-driven design.
 ### 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=phaser" height="48"/>
+  <img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" height="48"/>
 </p>
 
 ### ⚙️ Backend / Environment
