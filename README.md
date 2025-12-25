@@ -37,7 +37,6 @@ Currently exploring **web development** through personal projects and creative p
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,mysql" />
   <img src="https://cdn.simpleicons.org/formspree/ea4aa" height="45"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fknKKe9B8oE5WnbznLV9iM-cnr7DtQLpbg&s" height="45"/>
 </p>
 
 ### 3. Design
