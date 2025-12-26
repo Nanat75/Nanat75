@@ -41,7 +41,7 @@ Currently exploring **web development** through personal projects and creative p
   <img src="https://cdn.simpleicons.org/formspree/ea4aa" height="45"/>
 </p>
 
-### 3. Design
+### 3. Design & Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://1000logos.net/wp-content/uploads/2023/02/Canva-logo.png" height="48"/>
