@@ -5,7 +5,7 @@
 
 ---
 
-![pixel banner](https://i.pinimg.com/736x/9c/74/89/9c748904700dfc8ec8098ab1c0895662.jpg)
+![pixel banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b595c488-f1ff-4e5f-94a8-ee0e5a5936f2/dfwpnnj-584c039e-eb19-46b9-889e-91c60bc84d31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iNTk1YzQ4OC1mMWZmLTRlNWYtOTRhOC1lZTBlNWE1OTM2ZjIvZGZ3cG5uai01ODRjMDM5ZS1lYjE5LTQ2YjktODg5ZS05MWM2MGJjODRkMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SFG6Xq44l0eSzl_pqYWz8gRfG9YENyYrhcOcjfFkYLQ)
 
 </div>
 
