@@ -62,7 +62,7 @@ Currently exploring **web development** through personal projects and creative p
 
 - Designing UI/UX for interactive websites
 
-- Strengthening backend development skills and using backend technologies more frequently
+- Strengthening backend development skills 
   
 ---
 
