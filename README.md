@@ -1,11 +1,13 @@
 <div align="center">
 
-#  Nathasya Aulia Putri 
+#  Nathasya Aulia Putri
+### Student Developer • Interactive Web • Pixel Art
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/9c/74/89/9c748904700dfc8ec8098ab1c0895662.jpg"
        width="800" />
 </p>
+
 
 </div>
 
