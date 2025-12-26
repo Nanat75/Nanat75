@@ -66,9 +66,28 @@ Currently exploring **web development** through personal projects and creative p
   
 ---
 
+## 💌 Contact Me
+<p align="center">
+  <a href="https://wa.me/62895374793742">
+    <img src="https://i.pinimg.com/474x/a2/33/e8/a233e87405ca456be61b01983c55d74b.jpg" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/ryx_loll">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lucas.lol6996@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+</p>
+
+---
+
 <div align="center">
   
 ✨ Thanks for stopping by ✨  
 *Feel free to explore my projects!*
 
 </div>
+
+
